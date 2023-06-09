@@ -1,4 +1,4 @@
-## Hey 👋, I'm Sudhakar  
+# Hey 👋, I'm Sudhakar🙂  
   
 
 <a href="https://linkedin.com/in/Linkedin.com/in/sudhakar-s" target="_blank">
@@ -10,16 +10,8 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🌱 I’m currently learning   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
