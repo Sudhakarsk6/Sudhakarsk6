@@ -9,7 +9,7 @@
 <!-- Header -->
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand-Wave.gif" width="40"/>  
 <h1 align="center">Hey there! I'm <span style="color:#00A8E8">Sudhakar</span> 👋</h1>
-<h3 align="center">A passionate Python Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Python Developer</h3>
 
 ---
 
