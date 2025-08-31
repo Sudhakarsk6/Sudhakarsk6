@@ -68,13 +68,13 @@
 ### 🤝🏻 &nbsp;Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://linkedin.com/in/sudhakarsk">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:sudhakarsk101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourhandle">
+  <a href="https://instagram.com/_sudhakar_sk_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
